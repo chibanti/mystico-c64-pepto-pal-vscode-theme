@@ -2,7 +2,7 @@
   "name": "mystico-c64-pepto-pal",
   "displayName": "Mystico - C64 (Pepto PAL)",
   "description": "Mystico - Commodore 64 color theme for Visual Studio Code (Pepto PAL)",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "Chibantichic",
   "engines": {
     "vscode": "^1.55.0"
